@@ -4,4 +4,17 @@
 :root{
     --fonte-titulo:'SUSE+Mono';
     --fonte-titulo:'Roboto+Condensed';
+    --cor-principal:#0324fdd1;
+    --cor-secundaria:#7eafc9;
+    --cor-destaque:#0163e4;
+    --cor-texto:#ffffff;
+}
+body{
+    background-color: var(--cor-principal);
+    color: var(--cor-texto);
+    font-family: var(--fonte-texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
