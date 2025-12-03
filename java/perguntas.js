@@ -45,14 +45,14 @@ export const perguntas = [
                 afirmacao: [
                     "Aceleração da Transição Pessoal: Esta mudança reduz drasticamente as emissões (especialmente do transporte), melhora a qualidade do ar urbano e promove a saúde física.",
                 ],
-                proxima: 3,
+                proxima: 5,
             },
             {
                 texto: "Continuar a usar o carro diariamente sozinho, sob a justificativa de que 'outras pessoas fazem o mesmo', e evitar transporte ativo devido à conveniência imediata.",
                 afirmacao: [
                     "Manutenção do Status Quo: A dependência do carro é uma das maiores fontes de emissão individual. Ignorar alternativas contribui para o trânsito e a poluição.",
                 ],
-                proxima: 4,
+                proxima: 6,
             },
         ]
     },
@@ -64,14 +64,14 @@ export const perguntas = [
                 afirmacao: [
                     "Consumo Consciente e Circular: Reduz a demanda por produção intensiva de recursos, minimiza o desperdício têxtil e eletrônico e favorece uma economia mais justa.",
                 ],
-                proxima: 3,
+                proxima: 7,
             },
             {
                 texto: "Seguir as tendências da 'fast fashion', comprar itens baratos e descartáveis com frequência, e trocar eletrônicos a cada novo lançamento.",
                 afirmacao: [
                     "Ciclo de Alto Desperdício: Alimenta a exploração de recursos, gera grande quantidade de lixo e perpetua condições de trabalho questionáveis na cadeia de produção.",
                 ],
-                proxima: 4,
+                proxima: 8,
             },
         ]
     },
