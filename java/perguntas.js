@@ -1,79 +1,78 @@
 export const perguntas = [
     {
-        enunciado: "Apesar da existência de programas sociais pontuais do governo, esses não têm sido suficientes para romper o ciclo de pobreza e exclusão. O principal problema de sustentabilidade social identificado é a baixa coesão social e a limitada capacidade de autogestão e geração de renda local, resultando em uma dependência crônica de auxílio externo e na estagnação do desenvolvimento humano e comunitário. Qual seria a principal linha de ação para abordar essa questão?",
+        enunciado: "O problema central é a escolha entre a conveniência de um estilo de vida de alto consumo e o esforço para adotar hábitos que reduzam a sua pegada de carbono individual.",
         alternativas: [
             {
-                texto: "Investir fortemente nos pilares básicos do desenvolvimento humano, o que envolve ações como o acesso universal à educação de qualidade, à saúde e a oportunidades de emprego digno.",
+                texto: "Analisar e reduzir o consumo de bens descartáveis e de origem animal, priorizar transporte ativo (bicicleta/caminhada) ou público, e investir em produtos duráveis e de baixo impacto.",
                 afirmacao: [
-                    "O acesso a pilares como educação e saúde não são apenas direitos humanos, mas ferramentas cruciais que **capacitam os indivíduos**, elevam o padrão de vida, reduzem a pobreza e a desigualdade, e fortalecem a capacidade da comunidade de se manter coesa e resiliente perante desafios futuros. Esta é uma base fundamental, mas por si só pode não garantir a autogestão local."
+                    "Ação Imediata: Compromisso com a redução do consumo e a escolha de opções de baixo carbono. Benefício: Redução significativa da pegada de carbono, economia a longo prazo e maior bem-estar pessoal. Maior eficácia em inspirar mudanças sociais.",
                 ],
                 proxima: 1,
             },
             {
-                texto: "Implementar uma iniciativa de desenvolvimento sustentável que priorize a autonomia e a capacitação local, focada em projetos de geração de renda e fortalecimento da coesão social (ex: cooperativismo, microcrédito e economia solidária).",
+                texto: "Manter os hábitos atuais de consumo (muita carne, compras frequentes, uso intensivo de carro), focando apenas em pequenas ações como reciclagem ocasional, adiando grandes mudanças de estilo de vida por conveniência.",
                 afirmacao: [
-                    "Esta abordagem foca diretamente no cerne do problema (baixa autogestão e dependência crônica). Ela promove o **empoderamento** e a **capacidade produtiva local**, permitindo que a comunidade encontre soluções e se sustente por conta própria. Embora a responsabilidade ambiental (gestão de resíduos e poluição) seja crucial, ela pertence à Sustentabilidade Ambiental. A **Sustentabilidade Social** foca no ser humano e na estrutura comunitária, abordando questões como justiça social, equidade, acesso a direitos e bem-estar coletivo."
+                    "Inércia Contínua: Manutenção do estilo de vida de alto carbono. Consequência: Pegada de carbono elevada, aumento do custo de vida futuro devido à escassez de recursos e contribuição para a crise climática.",
                 ],
                 proxima: 2,
-            }
+            },
         ]
     },
     {
-        enunciado: "Considerando o conceito de Sustentabilidade Social, seu escopo se estende além das políticas governamentais, alcançando o setor privado por meio da Responsabilidade Social Corporativa (RSC). A RSC exige que as empresas considerem o impacto de suas operações nas pessoas e nas comunidades. Qual ação de RSC tem maior impacto na coesão e desenvolvimento local?",
+        enunciado: "Qual abordagem para alimentação e consumo diário equilibra a necessidade de uma dieta saudável e acessível com a minimização do impacto ambiental (água, terra, emissões)?",
         alternativas: [
             {
-                texto: "Realizar doações pontuais e patrocinar eventos culturais na comunidade onde a empresa opera.",
+                texto: "Adoção de uma dieta baseada principalmente em vegetais (flexitariana, vegetariana ou vegana), priorizando alimentos locais, sazonais e não processados, e reduzindo ao máximo o desperdício alimentar.",
                 afirmacao: [
-                    "Embora as doações e patrocínios ajudem, são ações de **curto prazo e dependência**. Elas não alteram fundamentalmente a estrutura de pobreza ou a falta de autogestão. Para uma RSC robusta, o foco deve ser em mudanças sistêmicas."
+                    "Maximização do Bem-Estar e Sustentabilidade: Esta escolha é a mais eficaz para reduzir a pegada hídrica e de carbono da alimentação, alinhando saúde pessoal e impacto ambiental positivo.",
                 ],
                 proxima: 3,
             },
             {
-                texto: "Integrar a contratação de mão de obra local e o desenvolvimento de fornecedores comunitários em suas cadeias de valor, complementando com programas de capacitação e desenvolvimento de talentos.",
+                texto: "Continuar com uma dieta rica em carne vermelha e produtos industrializados, ignorando a origem dos alimentos e mantendo o desperdício alimentar elevado, mas comprando ocasionalmente produtos 'orgânicos'.",
                 afirmacao: [
-                    "Esta ação de RSC gera **impacto estrutural e de longo prazo**. Ela fomenta a geração de renda local, transfere conhecimento (capacitação) e constrói capital social ao integrar a comunidade ao motor econômico da empresa, abordando diretamente o problema da estagnação e da limitada capacidade de geração de renda local."
+                    "Atraso e Foco Limitado: As emissões e o uso de recursos continuam altos. Pequenas escolhas pontuais não compensam o impacto estrutural da dieta e do desperdício.",
                 ],
                 proxima: 4,
-            }
+            },
         ]
     },
     {
-        enunciado: "O terceiro pilar, a Sustentabilidade Econômica, deve garantir que a comunidade possa manter sua autonomia financeira a longo prazo, sem comprometer os pilares social e ambiental. No contexto do problema inicial (baixa capacidade de autogestão e geração de renda), qual estratégia econômica é mais eficaz para a sustentabilidade da comunidade?",
+        enunciado: "Em relação à mobilidade, como você pode reduzir de forma mais significativa a sua pegada de carbono e melhorar a sua saúde no ambiente urbano?",
         alternativas: [
             {
-                texto: "Focar na atração de grandes investimentos externos, garantindo que o dinheiro injetado gere empregos para a população.",
+                texto: "Substituir o uso diário do carro particular por transporte público, bicicleta ou caminhada sempre que possível. Para viagens longas, priorizar o trem/ônibus em vez do avião.",
                 afirmacao: [
-                    "A atração de grandes investimentos é importante, mas frequentemente cria uma nova **dependência externa** e pode levar à fuga de capital. Além disso, os empregos podem não ser dignos ou a longo prazo, e a população local pode não ter a capacitação necessária."
+                    "Aceleração da Transição Pessoal: Esta mudança reduz drasticamente as emissões (especialmente do transporte), melhora a qualidade do ar urbano e promove a saúde física.",
                 ],
-                proxima: 5,
+                proxima: 3,
             },
             {
-                texto: "Incentivar e apoiar a criação de **empreendimentos comunitários** (cooperativas, associações) e o **microcrédito produtivo**, promovendo a diversificação da economia local e o consumo interno.",
+                texto: "Continuar a usar o carro diariamente sozinho, sob a justificativa de que 'outras pessoas fazem o mesmo', e evitar transporte ativo devido à conveniência imediata.",
                 afirmacao: [
-                    "Esta é a espinha dorsal da **autonomia econômica e autogestão**. Fortalecer o empreendedorismo local e a economia solidária garante que o capital e o poder de decisão permaneçam na comunidade, promovendo a coesão social e a resiliência contra choques externos. Isso fortalece as três dimensões da sustentabilidade."
+                    "Manutenção do Status Quo: A dependência do carro é uma das maiores fontes de emissão individual. Ignorar alternativas contribui para o trânsito e a poluição.",
                 ],
-                proxima: 6,
-            }
+                proxima: 4,
+            },
         ]
     },
-    // Adicionado um quarto objeto para preencher o array
     {
-        enunciado: "Para garantir que as soluções de Sustentabilidade Social, Econômica e Ambiental sejam duradouras, é essencial uma Governança local forte e inclusiva. Qual é o papel mais crucial da Governança para garantir a sustentabilidade do desenvolvimento comunitário?",
+        enunciado: "Ao comprar roupas e eletrônicos, qual filosofia de consumo gera o maior benefício a longo prazo para o planeta e para o seu bolso?",
         alternativas: [
             {
-                texto: "Criar um órgão de controle governamental centralizado para fiscalizar de perto todos os projetos e iniciativas da comunidade.",
+                texto: "Adotar o consumo consciente: Comprar menos, escolher produtos de alta qualidade e durabilidade ('slow fashion'), preferir marcas éticas e de segunda mão (brechós).",
                 afirmacao: [
-                    "A fiscalização é necessária, mas a **centralização** é um erro. Ela pode sufocar a autonomia e a autogestão local, que é o objetivo principal a ser fortalecido para romper a dependência de auxílio externo."
+                    "Consumo Consciente e Circular: Reduz a demanda por produção intensiva de recursos, minimiza o desperdício têxtil e eletrônico e favorece uma economia mais justa.",
                 ],
-                proxima: 7,
+                proxima: 3,
             },
             {
-                texto: "Estabelecer **espaços de diálogo e decisão compartilhada** que incluam o governo, o setor privado e, principalmente, as lideranças comunitárias e a sociedade civil organizada, garantindo a transparência e a participação.",
+                texto: "Seguir as tendências da 'fast fashion', comprar itens baratos e descartáveis com frequência, e trocar eletrônicos a cada novo lançamento.",
                 afirmacao: [
-                    "A **participação inclusiva e a transparência** são pilares da boa Governança e da Sustentabilidade Social. Ao garantir que a comunidade (lideranças locais e sociedade civil) participe da formulação, execução e avaliação das ações, assegura-se que as soluções sejam adequadas à realidade local e que a coesão social seja fortalecida."
+                    "Ciclo de Alto Desperdício: Alimenta a exploração de recursos, gera grande quantidade de lixo e perpetua condições de trabalho questionáveis na cadeia de produção.",
                 ],
-                proxima: 8,
-            }
+                proxima: 4,
+            },
         ]
-    }
+    },
 ];
